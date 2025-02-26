@@ -46,10 +46,6 @@
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idominguez25&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-<div align="center">
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" height="350">
- </div>
   
 </p>
 
